@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d68f8482-3809-4b74-b4cf-7b914cd756a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plasticin-web-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../plasticin-web-master/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../plasticin-web-master/about-us/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plasticin-web-master/about-us/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plasticin-web-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plasticin-web-master/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,12 +97,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581160275324</updated>
-      <workItem from="1581160276947" duration="1548000" />
+      <workItem from="1581160276947" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1548000" />
+    <option name="totallyTimeSpent" value="1780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="259" y="104" width="991" height="620" extended-state="0" />
