@@ -118,13 +118,13 @@ body {
 .why-title {
   display: flex;
   justify-content: center;
-  color: #31e366;
+  color: #00a532;
 }
 
 .why-us {
   display: flex;
   flex-direction: column;
-  background-color: #31e366;
+  background-color: #00a532;
 }
 
 .why-content {
@@ -139,7 +139,7 @@ body {
 }
 
 .content-title {
-  color: #31e366;
+  color: #00a532;
   margin: 0 0 0 0;
 }
 
@@ -457,4 +457,10 @@ select {
 
 .clear {
   zoom:1
+}
+
+
+
+.submit-button{
+    margin-top: 20px;
 }
