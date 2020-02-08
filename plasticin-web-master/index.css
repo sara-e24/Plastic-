@@ -118,7 +118,7 @@ body {
 .why-title {
   display: flex;
   justify-content: center;
-  color: white;
+  color: #31e366;
 }
 
 .why-us {
@@ -139,7 +139,7 @@ body {
 }
 
 .content-title {
-  color: white;
+  color: #31e366;
   margin: 0 0 0 0;
 }
 
